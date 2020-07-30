@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 public class TreeMapDemo {
-
+//sorted according to natural ordering of its keys
 	public static void main(String[] args) {
 
 		Map<String,Integer> TreeMap= new TreeMap<>();

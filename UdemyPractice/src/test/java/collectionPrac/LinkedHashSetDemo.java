@@ -6,7 +6,7 @@ import java.util.Set;
 public class LinkedHashSetDemo {
 
 	public static void main(String[] args) {
-
+//maintain the insertion order
 		//insertion order predictable..duplicate consider  as single entry 
 		Set<String> LinkedhashSet=new LinkedHashSet<>();
 		LinkedhashSet.add("Ram");

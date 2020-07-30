@@ -5,7 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class LinkedHashMapDemo {
-
+//maintain insertion order
 	public static void main(String[] args) {
 		Map<String,Integer> linkedHasmap=new LinkedHashMap<>();
 		linkedHasmap.put("m",50);
