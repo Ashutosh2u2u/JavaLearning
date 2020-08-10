@@ -2,6 +2,7 @@ package abstractionPrac;
 
 class Scooter extends Vehicle
 {
+	//here scooter class extends abstract class vehicle having abstract method start()
 	void start()
 	{
 		System.out.println("scooter starts with kick");
