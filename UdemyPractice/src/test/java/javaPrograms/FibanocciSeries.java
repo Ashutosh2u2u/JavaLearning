@@ -9,7 +9,7 @@ public class FibanocciSeries {
 		int sum=0;
 		
 		int i=1;
-		while(i<8)
+		while(i<10)
 		{
 			sum=a+b;//get sum of previous two number
 			System.out.println(sum);

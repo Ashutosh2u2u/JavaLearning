@@ -1,3 +1,4 @@
+
 package abstractionPrac;
 
 class Scooter extends Vehicle
